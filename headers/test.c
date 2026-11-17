@@ -1,4 +1,4 @@
-#include "span.h"    // for struct string_span
+//#include "span.h"    // for struct string_span
 #include "queries.h" // for getQueries
 #include <stdlib.h>  // for free
 #include <stdio.h>   // for printf
